@@ -1,7 +1,7 @@
-##OOP Practice — Java##
+**OOP Practice — Java**
 A comprehensive collection of Java programs built during my BSCS Data Science program at KSBL (Karachi School of Business & Leadership). This repository covers core to intermediate Object-Oriented Programming concepts through lab tasks, quizzes, practice problems, and mini-systems.
 
-Concepts Covered
+***Concepts Covered***
 ConceptDescriptionEncapsulationPrivate fields, getters/setters, data hidingInheritanceSingle & multilevel inheritance, method overridingPolymorphismRuntime & compile-time polymorphism, overloadingAbstractionAbstract classes, interfacesEnumsEnum types with methods and constructorsException HandlingTry-catch, custom exceptions, throwsPackagesOrganizing classes into packagesGenericsGeneric classes, methods, wildcardsCollectionsList, ArrayList, iterationMultithreadingThreads, Runnable, task scheduling
 
 Repository Structure

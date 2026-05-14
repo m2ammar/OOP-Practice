@@ -1,4 +1,4 @@
-**OOP Practice — Java**
+## OOP Practice — Java
 A comprehensive collection of Java programs built during my BSCS Data Science program at KSBL (Karachi School of Business & Leadership). This repository covers core to intermediate Object-Oriented Programming concepts through lab tasks, quizzes, practice problems, and mini-systems.
 
 ***Concepts Covered***

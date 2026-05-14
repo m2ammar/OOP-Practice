@@ -5,50 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6185f70-ec4d-4e90-b1aa-953d1ba51c0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BankAccountSystem/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccountSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccountSystem/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fan/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/AnotherBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12Task/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12Task/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab12Task/WildCardExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystem1/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryMembershipSystem/Member1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryMembershipSystem/PremiumMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryMembershipSystem/RegularMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniRetailSystem/Electronics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniRetailSystem/Grocery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniRetailSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniRetailSystem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniRetailSystem/Sellable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh2/SnakesNLadders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh3/AutoBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh4/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh4/Multithreading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh4/Multithreading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPTh4/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz3/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz3/CounterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizProb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartFanSystem/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartFanSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/ScholarStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
